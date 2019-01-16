@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Quicksort",
+            "request": "launch",
+            "mainClass": "Quicksort",
+            "projectName": "learningGitNJava_54062bde"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Matrices",
             "request": "launch",
             "mainClass": "Matrices",
