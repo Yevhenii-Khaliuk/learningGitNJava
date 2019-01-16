@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "learningGitNJava_54062bde"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
